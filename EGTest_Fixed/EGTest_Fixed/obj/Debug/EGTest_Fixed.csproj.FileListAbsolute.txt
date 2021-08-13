@@ -1,0 +1,15 @@
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\bin\Debug\EGTest_Fixed.exe.config
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\bin\Debug\EGTest_Fixed.exe
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\bin\Debug\EGTest_Fixed.pdb
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed.csproj.AssemblyReference.cache
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\App.g.cs
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed_MarkupCompile.cache
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed_MarkupCompile.lref
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\MainWindow.baml
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed.g.resources
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed.Properties.Resources.resources
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed.csproj.GenerateResource.cache
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed.exe
+C:\Users\Artem\Documents\EGTest_Fixed\EGTest_Fixed\obj\Debug\EGTest_Fixed.pdb
